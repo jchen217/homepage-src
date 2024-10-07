@@ -1,0 +1,88 @@
+# jemdoc: addcss{./css/jemdoc.css} 
+# jemdoc: menu{MENU}{index.html}
+
+{{
+<table class="imgtable"><tbody><tr>
+ <td><a href="https://eng-cs.syr.edu/directory/?peopleid=3290"><img src="./image/Yuzhe-Richard.jpg" alt="Dr. Tang's image; copyright" width="180px" height="170px">&nbsp;</a></td>
+ <td align="left">
+ <p style="font-size:27px"><b>Yuzhe Tang</b></p>
+ Assistant Professor<br>
+ <a href="https://eecs.syr.edu/">Dept. of EECS</a>, 
+ <a href="https://www.syracuse.edu/">Syracuse University</a><br>
+ 4206 Center of Science and Technology,<br> Syracuse, 13244-4100<br>
+ ytang100 [at] syr [dot] edu<br>
+ C.V.: [<a href="resume/tang-cv-full.html">webpage</a>],[<a href="resume/tang-cv-full.pdf">pdf</a>]<br>
+ Ph.D.: Georgia Tech., B.Sc.: Fudan Univ. <a href="https://clustrmaps.com/site/1biee"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=BLcnLuQlucy4XAyEURhIX8So8IOVA3GT_WTAgQsVIWg&cl=ffffff" width="1px" /></a>
+ </td>
+</tr></tbody></table>
+}}
+
+~~~
+{News}
+- Sep. 2021: Our paper accepted to ACM CCS 2021. Congrats to Kai and Yibo!
+- Aug. 2021: Our paper accepted to ACM IMC 2021. Congrats to Kai!
+- Aug. 2021: Our paper accepted to ACM Middleware 2021 (Industrial track).
+- Aug. 2021: Invited to serve a blockchain panel in VLDB'21 [http://vldb.org/2021/?program-schedule-roundtable \[link\]].
+- June 2021: Grateful to receive an NSF educational grant. We will be developing more blockchain labs.
+- June 2021: Our paper accepted to ESEC/FSE 2021. Congrats to Yibo, Kai and Jiaqi!
+- Oct. 2020: Our paper accepted to NDSS 2021. Congrats to Kai, Jiaqi and Xianghong!
+- Aug. 2020: Our paper accepted to Middleware 2020. Congrats to Kai and Zhehu!
+- Nov. 2019: Chair blockchain workshop BlockDM 2020. Please submit your best work [https://blockchain.comp.hkbu.edu.hk/blockdm2020/ \[link\]].
+- July 2019: Deliver a public lecture to K-12 in Syracuse City School District.
+- Apr 2019: Honorable mention in Google & Intel 2019 C3 Challenge. Congrats to Kai and Burak! [https://cloud.google.com/blog/products/identity-security/announcing-the-winners-of-the-confidential-computing-challenge \[link\]]
+- May 2018: Release blockchain labs and deliver them in the SEED workshop: [https://blockchainlabsu.github.io/ \[link\]].
+- Apr. 2018: Release Intel SGX labs: [https://github.com/syracuse-fullstacksecurity/CIS700-sgxlab \[link\]].
+~~~
+
+== Research Interests
+
+I am broadly interested in cybersecurity and distributed systems. My current research focuses on protocol analysis and design to understand and tackle the security-performance tradeoff in emerging security applications, including blockchains, transparency logs, cloud outsourcing, etc. On the one hand, I analyze and measure large-scale operational systems to identify, verify, and mitigate vulnerabilities. On the other hand, I design cost/performance optimization schemes and build middleware on security-centric distributed systems.
+
+#Distributed systems security, security protocols, measurements, software security, vulnerability discovery, cost-effective defense, and trusted computing
+#design flaws
+#large-scale measurement
+#dynamic analysis
+
+== Recent Publications
+
+{{<u>Underline</u>}}: students advised by Dr. Tang
+
+- {{<u>K. Li</u>}}, {{<u>Y. Wang</u>}}, Yuzhe Tang. "DETER: Denial of Ethereum Txpool sERvices", ACM {{<b>CCS 2021</b>}}, {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">design flaws</span>}}  {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">DoS</span>}} 
+- {{<u>K. Li</u>}}, Yuzhe Tang, {{<u>J. Chen</u>}}, {{<u>Y. Wang</u>}}, {{<u>X. Liu</u>}}. "TopoShot: Uncovering Ethereum's Network Topology Leveraging Replacement Transactions", ACM {{<b>IMC 2021</b>}}, AR=28% [./docs/imc21-toposhot.pdf \[pdf\]] {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">network measurement</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain overlay network</span>}} 
+- {{<u>K. Li</u>}}, {{<u>J. Chen</u>}}, {{<u>X. Liu</u>}}, Yuzhe Tang, X. Wang, X.  Luo. "As Strong As Its Weakest Link: How to Break (and Fix) Blockchain DApps at RPC Service", ISOC {{<b>NDSS 2021</b>}}, AR=15.2% [https://www.ndss-symposium.org/wp-content/uploads/2021-108-paper.pdf \[pdf\]], [https://docs.google.com/presentation/d/1otvlWH0Nbz8nXBdo03ZjTbhnVaUNkHahGoUpPOlVjRc/edit?usp=sharing \[slides\]] {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">software security</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">DoS</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain</span>}}
+- {{<u>Y. Wang</u>}}, {{<u>Q. Zhang</u>}}, {{<u>K. Li</u>}}, Yuzhe Tang, {{<u>J. Chen</u>}}, X. Luo, T. Chen. "iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations" *ESEC/FSE 2021*, AR=24.5% [./docs/fse21-ibatch.pdf \[pdf\]], [https://arxiv.org/abs/2106.08554 \[extended version\]], [https://2021.esec-fse.org/details/fse-2021-papers/37/Towards-Practical-and-Cost-Effective-Batching-of-Smart-Contract-Invocations-on-Ethere \[html\]], [https://docs.google.com/presentation/d/1BAbKc0El5ccnSwowvgFECqgYMjrKFBS-aQMwgGJBYfo/edit?usp=sharing \[slides\]] {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">cost-efficiency</span>}}
+- Yuzhe Tang, {{<u>K. Li</u>}}, Q. Zhang, J. Xu, {{<u>J. Chen</u>}}. "Authenticated Key-Value Stores with Hardware Enclaves", ACM/IFIP {{<b>Middleware 2021</b>}} (Industrial track) [https://arxiv.org/abs/1904.12068 \[extended version\]] {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">TEE</span>}}, {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">KV store</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">data integrity</span>}}
+- {{<u>K. Li</u>}}, Yuzhe Tang, {{<u>J. Chen</u>}}, {{<u>Z. Yuan</u>}}, C. Xu, J. Xu. "Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication", ACM/IFIP {{<b>Middleware 2020</b>}}, AR=25.2% [./docs/mw20.pdf \[pdf\]], [https://arxiv.org/abs/1911.04078 \[extended version\]], [https://youtu.be/HdIdEIQx2T4 \[video\]], [https://docs.google.com/presentation/d/1NhP2RmQGpnnRCaYayFSt3pld4fk-rXmDkWqYjf4YOPU/edit?usp=sharing \[slides\]]   {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">cost-efficiency</span>}}
+-- {{<i>Open-source software passed the Middleware'20 artifact evaluation</i>}} [https://github.com/syracuse-fullstacksecurity/GRuB \[code\]].
+- C. Zhang, C. Xu, J. Xu, Yuzhe Tang, B. Choi. "GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain", IEEE {{<b>ICDE 2019</b>}}, Full Paper, AR=26.8% [./docs/icde19.pdf \[pdf\]]   {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">blockchain application</span>}}  {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">outsourced databases</span>}} {{<span class="label" style="background-color: white; color: rgb(0, 153, 51);border: 1px solid rgb(0, 153, 51);border-radius: 5px;">data integrity</span>}}
+
+== Advising
+
+I am fortunate and grateful to work with the following bright Ph.D. students. 
+
+- Kai Li [http://likai1993.github.io/ \[link\]]: {{<i>CCS'21 (1st author), IMC'21 (1st author), NDSS'21 (1st author), Middleware'20 (1st author)</i>}}. Internships: IBM Research ('20), Amazon ('21)
+- Yibo Wang [https://yibo-wang.com \[link\]]: {{<i>FSE'21 (1st author)</i>}}
+- Jiaqi Chen [https://sites.google.com/view/JiaqiChen \[link\]]: {{<i>NDSS'21, IMC'21, FSE'21, Middleware'20 (co-author)</i>}}
+- Xianghong Liu: {{<i>NDSS'21, IMC'21 (co-author)</i>}}
+- Yuxuan Zhou [http://yuxuanzhou.com \[link\]]
+
+[./members.html \[Link\]] to our {{<span class=first>F</span>ull<span class=second>S</span>tack <span class=third>S</span>ecurity <span class=forth>L</span>ab}} ({{<span class=first>F</span><span class=second>S</span><span class=third>S</span><span class=forth>L</span>}}).
+
+== Teaching
+
+- CIS629-FIN629 (2021\/[https://tristartom.github.io/teaching/20f-fin600/index.html 2020]\/2019\/2018): Blockchain Foundations and Applications. [https://tristartom.github.io/teaching/21f-fin600/index.html \[website\]]
+- CIS628/428 (2019): Introduction to applied cryptography. [https://tristartom.github.io/teaching/19f-cis428 \[website\]]
+- CSE384 (2019\/2018\/2017): Introduction to systems programming. [https://tristartom.github.io/teaching/19s-cse384 \[website\]]
+- CIS655 (2016\/2015\/2014): Advanced computer architecture. [https://tristartom.github.io/teaching/15f-cis655 \[website\]]
+- CIS700 (2015): Research seminar. [https://tristartom.github.io/teaching/16s-cis700 \[website\]]
+
+== Research Projects
+
+:{} Blockchain DoS security: 
+[./tba.html \[CCS21\]][./docs/imc21-toposhot.pdf \[IMC21\]][https://www.ndss-symposium.org/wp-content/uploads/2021-108-paper.pdf \[NDSS21\]]
+:{} DApp cost optimization: [https://2021.esec-fse.org/details/fse-2021-papers/37/Towards-Practical-and-Cost-Effective-Batching-of-Smart-Contract-Invocations-on-Ethere \[FSE21\]][https://arxiv.org/abs/1911.04078 \[Middleware20\]][./docs/serial20-final1.pdf \[Middleware20w\]][./docs/tpds13.pdf \[TPDS13\]]
+:{} Secure data outsourcing: [./docs/icde19.pdf \[ICDE19\]][./docs/acsac14.pdf \[ACSAC14\]][http://fc18.ifca.ai/wtsc/4-Abstract.pdf \[FC18w\]]
+:{} Privacy-preserving data federation: [./docs/bioinformatics16.pdf \[Bioinformatics16\]][./docs/tkde15.pdf \[TKDE15\]][./docs/icdcs14.pdf \[ICDCS14\]][./docs/cikm11.pdf \[CIKM11\]]
+:{} Efficient distributed storage systems: [./docs/ccgrid15.pdf \[CCGrid15\]][./docs/edbt14.pdf \[EDBT14\]][./docs/tpds11.pdf \[TPDS11\]][./docs/tkde10.pdf \[TKDE10\]][./docs/icdcs09.pdf \[ICDCS09\]][./docs/icdcs08.pdf \[ICDCS08\]]
+:{} SGX systems with minimal trust and side-channel security: [./tba.html \[Middleware21i\]] [https://exo-sgx.github.io/ \[Project page\]]
+:{} Hands-on labs for security education.

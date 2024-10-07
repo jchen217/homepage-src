@@ -1,0 +1,101 @@
+# jemdoc: addcss{./css/jemdoc.css} 
+# jemdoc: menu{MENU}{members.html}
+
+{{
+<div class="container-fluid">
+<div class="container">
+<div class="container" id="headerdiv"></div>
+<div class="container" id="headerdiv2"></div>
+</div>
+</div>}}
+
+
+= Overview
+
+The mission of our {{<span class=first>F</span><span class=second>S</span><span class=third>S</span><span class=forth>L</span> (<span class=first>F</span>ull<span class=second>S</span>tack <span class=third>S</span>ecurity <span class=forth>L</span>ab)}} at Syracuse University is to understand and improve the security of emerging web services and off-the-shelf hardware products in novel and deployed application scenarios. Our research method is usually a combinaton of protocol analysis, program analysis, real-world measurement, cost-effective defense, and others that can be designed for large-scale practical use.
+
+
+= Current Ph.D. Students
+
+{{<table class="imgtable"><tbody><tr>}}
+{{<td><img src="./image/IMG_0755.jpg" alt="SC" width="100px" height="130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td><img src="./image/jiaqi.png" alt="SC" width="100px" height="130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td><img src="./image/yibo.jpg" alt="SC" width="100px" height="110px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td><img src="./image/xianghong.jpg" alt="SC" width="100px" height="105px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+{{</tr><tr>}}
+{{<td align="center"><a href="http://likai1993.github.io/">Kai Li</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td align="center"><a href="https://sites.google.com/view/JiaqiChen">Jiaqi Chen</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td align="center"><a href=" https://yibo-wang.com">Yibo Wang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td align="center">Xianghong Liu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{</tr></tbody></table>}}
+
+{{<table class="imgtable"><tbody><tr>}}
+{{<td><img src="./image/yuxuan.jpg" alt="SC" width="100px" height="140px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+{{<td><img src="./image/smiley.png" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+{{<td><img src="./image/smiley.png" alt="SC" width="100px" height="150px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+{{</tr><tr>}}
+{{<td align="center"><a href="http://yuxuanzhou.com">Yuxuan Zhou</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td align="center">Jingwen Xu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{<td align="center">Ankit Prabhat Khare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{</tr></tbody></table>}}
+
+#{{<td><img src="./image/IMG_3801.JPG" alt="SC" width="100px" height="130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+#{{<td align="center">Qi Zhang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+
+= Current undergraduates (REU)
+
+{{<table class="imgtable"><tbody><tr>}}
+{{<td><img src="./image/eniola.jpeg" alt="SC" width="100px" height="130px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td>}}
+{{</tr><tr>}}
+{{<td align="center">Eniola Mosaku&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>}}
+{{</tr></tbody></table>}}
+
+= Alumni
+
+- Ph.D. (committee): Katchaguy Areekijseree, Scott Constable (Intel)
+- M.Sc.: Vinutha Karanth (Microsoft), Sencer Burak Somuncuoglu (Chainalysis), Kang Lou 
+- B.Sc. (REU): Zhehu Yuan (Ph.D. at NYU), Qiwu Zou (Cornell Univ.), Congcong Xie (NYU->Oracle), Adam Piekarski, Jeong Bin Oh (A database startup), Sharell Scott (Google)
+- Visiting scholar: [https://xuc.me/ Cheng Xu] (Postdoc at Simon Fraser Univ.)
+
+
+= Group pictures
+
+== Aug, 2020
+
+~~~
+{}{img_left}{./image/IMG_3391.JPG}{}{600px}{450px}
+~~~
+
+== Jan, 2020
+
+~~~
+{}{img_left}{./image/IMG_4582.JPG}{}{600px}{450px}
+~~~
+
+== Oct, 2019 (Dr. Yue Duan's visit)
+
+~~~
+{}{img_left}{./image/IMG_2763.JPG}{}{600px}{450px}
+~~~
+
+
+== Jul, 2019 (Summer REU)
+
+~~~
+{}{img_left}{./image/JUL-2019.jpg}{Summer Research picture (Jul, 2019)}{600px}{400px}
+~~~
+
+
+== Dec, 2018
+
+~~~
+{}{img_left}{./image/DEC-2018.jpg}{Group picture (Dec, 2018)}{533.33px}{400px}
+~~~
+
+== May, 2018
+
+~~~
+{}{img_left}{./image/group_2018.05-small.jpg}{Group picture (Dec, 2018)}{638.3px}{400px}
+~~~
+
+
